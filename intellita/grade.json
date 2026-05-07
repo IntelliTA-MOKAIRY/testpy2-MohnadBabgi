@@ -1,0 +1,33 @@
+{
+  "activity_id": 6,
+  "activity_title": "TestPy2",
+  "score": 25,
+  "max_score": 100,
+  "submitted_at": "2026-05-07T13:42:11.006Z",
+  "checkpoints": [
+    {
+      "id": 64,
+      "title": "Fix ",
+      "type": "challenge",
+      "passed": true
+    },
+    {
+      "id": 65,
+      "title": "Fix ",
+      "type": "challenge",
+      "passed": false
+    },
+    {
+      "id": 66,
+      "title": "Fix ",
+      "type": "challenge",
+      "passed": false
+    },
+    {
+      "id": 67,
+      "title": "Fix ",
+      "type": "challenge",
+      "passed": false
+    }
+  ]
+}
